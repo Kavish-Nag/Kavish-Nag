@@ -4,7 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavish-nag&label=Profile%20views&color=0e75b6&style=flat" alt="kavish-nag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavish-nag" alt="kavish-nag" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kavish-Nag&theme=onedark" alt="kavish-nag trophies" />
+  </a>
+</p>
+
+![kavish-nag](https://img.shields.io/badge/Kavish--Nag-black?style=flat-square&logo=github)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
