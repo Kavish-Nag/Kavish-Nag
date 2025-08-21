@@ -28,7 +28,7 @@
 <a href="https://www.codechef.com/users/kavish_nag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kavish_nag" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kavishnag13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavishnag13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kavish_nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavish_nag" height="30" width="40" /></a>
-<a href="[https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kavishsf8h/](https://www.geeksforgeeks.org/user/kavishsf8h/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="[https://www.geeksforgeeks.org/user/kavishsf8h/](https://www.geeksforgeeks.org/user/kavishsf8h/)" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kavishsf8h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kavishsf8h" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
