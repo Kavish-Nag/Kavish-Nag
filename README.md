@@ -32,6 +32,10 @@
 
 - 📝 Libraries **Pandas, NumPy, Matplotlib, Seaborn, scikit-learn**
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Harshad2321&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kavish-nag-579b08313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavish-nag" height="30" width="40" /></a>
