@@ -33,7 +33,7 @@
 - 📝 Libraries **Pandas, NumPy, Matplotlib, Seaborn, scikit-learn**
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Harshad2321&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Kavish-Nag&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <h3 align="left">Connect with me:</h3>
