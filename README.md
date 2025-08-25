@@ -44,7 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavish-nag&show_icons=true&locale=en&layout=compact" alt="kavish-nag" /></p>
 <p align="left">
-  <a href="https://github.com/Kavish-Nag">
     <img src="https://img.shields.io/badge/Kavish--Nag-black?style=flat-square&logo=github" alt="Kavish-Nag Badge" />
   </a>
 </p>
