@@ -51,7 +51,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-Nag&layout=compact&theme=radical"
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavish-nag&show_icons=true&locale=en" alt="kavish-nag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavish-nag&" alt="kavish-nag" /></p>
 
