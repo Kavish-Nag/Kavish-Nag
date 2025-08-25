@@ -49,6 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-Nag&layout=compact&langs_count=8&theme=radical" height="180em"/>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavish-nag&" alt="kavish-nag" /></p>
 
 
 
