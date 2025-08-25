@@ -44,26 +44,11 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Kavish-Nag&show_icons=true&theme=radical" height="200"/>
-      </td>
-      <td>
-        <!-- Streak Stats -->
-        <img src="https://streak-stats.demolab.com/?user=Kavish-Nag&theme=radical&hide_border=false" height="200"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-Nag&layout=compact&theme=radical" height="180"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavish-Nag&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-Nag&layout=compact&langs_count=8&theme=radical" height="180em"/>
+</p>
 
-</div>
 
 
 
