@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Reinforcement Learning in Gaming (Review Paper)**
+- 🔭 I’m currently working on **Image recognition project**
 
 - 🌱 I’m currently learning **Exploratory Data Analysis, Operating Systems & Advanced Python**
 
