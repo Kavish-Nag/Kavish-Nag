@@ -22,7 +22,7 @@
   <li>🌱 Learning <b>Supervised and Unsupervised Learning Algorithms</b></li>
   <li>👯 Looking to collaborate on <b>Image Recognition Models</b></li>
   <li>🤝 Open to <b>Data Analysis and Data Science projects</b></li>
-  <li>⚡ Interests: <b>Reinforcement Learning, Python, OS, EDA, MySQL</b></li>
+  <li>⚡ Interests: <b>Game Development, Reinforcement Learning, Python, OS, EDA, MySQL</b></li>
   <li>📝 Libraries: <b>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn</b></li>
 </ul>
 
